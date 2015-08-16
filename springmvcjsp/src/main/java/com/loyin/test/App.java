@@ -1,4 +1,4 @@
-package com.loyin.githubtest.springmvcjsp;
+package com.loyin.test;
 
 /**
  * Hello world!
